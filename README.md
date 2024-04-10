@@ -13,4 +13,4 @@ Here's an example of what an url could look like if you had uploaded to your sit
 
 upload (includes `.html` file extension)
 
-<img src="https://cdn.discordapp.com/attachments/1226709870238240880/1227734739423854726/Screenshot_20240410_153858_Samsung_Internet.png?ex=66297c14&is=66170714&hm=475e0e27f5c1606fd4ba56284f1a81dcb6ec4efaed135ad705d6a829ac257cca&" height="32" width="500">
+<img src="https://cdn.discordapp.com/attachments/1226709870238240880/1227734739423854726/Screenshot_20240410_153858_Samsung_Internet.png?ex=66297c14&is=66170714&hm=475e0e27f5c1606fd4ba56284f1a81dcb6ec4efaed135ad705d6a829ac257cca&" height="32" width="445">
