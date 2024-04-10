@@ -21,4 +21,4 @@ This is the place where all my memes will go. It's a part of my [site](https://y
 
 **upload to new/seperate repo *(no `.html` file extension)***
 
-<img src="https://media.discordapp.net/attachments/1226709870238240880/1227734739188977714/Screenshot_20240410_153547_Samsung_Internet.png?ex=66297c14&is=66170714&hm=308646f965e0890e6db4dde3c64890821860861232fadcd00d3486b38d5fc653&=&width=753&height=82" height="32" width="340">
+<img src="https://media.discordapp.net/attachments/1226709870238240880/1227734739188977714/Screenshot_20240410_153547_Samsung_Internet.png?ex=66297c14&is=66170714&hm=308646f965e0890e6db4dde3c64890821860861232fadcd00d3486b38d5fc653&=&width=753&height=82" height="32" width="332">
