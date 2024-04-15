@@ -70,14 +70,20 @@ img{
   transition: ease-in 0.1s;
 }
 
-video {
-  margin-left: auto;
-  margin-right: auto;
-  padding: 5px;
-  border: 1px solid white;
-  display: block;
+.memes video {
+  position: relative;
+  left: 20px;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
+.memes {
+  display: block;
+  border-radius: 2px;
+  border: 1px solid #ffb69c;
+  background-color: #5e1b00;
+  color: #ffb69c;
+}
 .highvis {
   padding: none;
   display: block;
