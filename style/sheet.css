@@ -70,6 +70,16 @@ img{
   transition: ease-in 0.1s;
 }
 
+/*Meme posts*/
+
+.memes img{
+position: relative;
+  left: 20px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+
 .memes video {
   position: relative;
   left: 20px;
@@ -84,6 +94,9 @@ img{
   background-color: #5e1b00;
   color: #ffb69c;
 }
+
+/*back to our regularily scheduled program*/
+
 .highvis {
   padding: none;
   display: block;
