@@ -6,6 +6,21 @@
   # GENERAL FORMAT/STYLE #
   ########################*/
 
+code{
+  background-color: #00030f;
+  font-family: 'Ubuntu mono', 'Courier new', cousine, monospace;
+  color: #bcc3eb;
+  border: 1px solid #bcc3eb;
+  border-radius: 2px;
+}
+pre{
+  background-color: #00030f;
+  font-family: 'Ubuntu mono', 'Courier new', cousine, monospace;
+  color: #bcc3eb;
+  border: 1px solid #bcc3eb;
+  border-radius: 2px;
+}
+
 a[href]{
   color: #667dff;
   transition: ease-out 0.1s;                 
