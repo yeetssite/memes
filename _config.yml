@@ -1,3 +1,5 @@
 url: "https://yeetssite.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/memes" # the subpath of your site, e.g. /blog
 title: "Yeet's memes" # the name of your site, e.g. ACME Corp.
+layouts_dir: "_layouts"
+source: "src"
