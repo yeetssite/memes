@@ -12,7 +12,7 @@ theme: base
     <body>
      <div>
 	     <ul>
-		     {% for post in page.posts %}
+		     {% for post in site.posts %}
 		     <li>
 			<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 		     </li>
