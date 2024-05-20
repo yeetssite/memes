@@ -35,6 +35,15 @@ theme: base
             
           </header>
      <div>
+	     <ul>
+		     {% for post in site.posts %}
+		     <li>
+			<a href="{{ post.url }}">{{ post.title }}</a>
+		     </li>
+		     {% endfor %}
+	     </ul>
+     </div>
+     <div>
         <h3>How did we get here?</h3>
         <p>
           Well, it started on an hp chromebook from 10 years ago. I had nothing to do on it because it was stuck on chromeos 72. one day I randomly started coding a css theme and thought "hey, this would be awesome for a meme website". 
