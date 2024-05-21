@@ -5,4 +5,6 @@ layouts_dir: "_layouts"
 source: "src"
 markdown: kramdown
 highlighter: rouge
+sass:
+  sass_dir: _sass
 
