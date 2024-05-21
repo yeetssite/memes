@@ -4,3 +4,5 @@ title: "Yeet's memes" # the name of your site, e.g. ACME Corp.
 layouts_dir: "_layouts"
 source: "src"
 markdown: kramdown
+highlighter: rouge
+   input: GFM
