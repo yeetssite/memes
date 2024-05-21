@@ -12,14 +12,17 @@ code,pre{
   color: #bcc3eb;
   border: 1px solid #bcc3eb;
   border-radius: 2px;
+  padding: 2px;
 }
 
 code{
  padding: 1px;
 }
 
-pre#text{
+pre code{
 	border: none;
+	background: none;
+	padding 2px;
 }
 
 a[href]{
