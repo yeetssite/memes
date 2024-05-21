@@ -14,12 +14,12 @@ code,pre{
   border-radius: 2px;
 }
 
-pre.code{
- background-color: #00030f;
- font-family: 'Ubuntu mono', 'Courier new', cousine, monospace;
- color: #bcc3eb;
- border: 1px solid #bcc3eb;
- border-radius: 2px;
+code{
+ padding: 1px;
+}
+
+pre code{
+	border: none;
 }
 
 a[href]{
