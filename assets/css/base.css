@@ -226,7 +226,12 @@ pre code{
 body{ 
      background-color: #00051f;
      background-size: 2em;
-     background: linear-gradient(180deg,rgba(0, 5, 31, 1) 45%, rgba(74, 15, 89, 1) 96%);
+     background: 
+     linear-gradient(180deg,
+     rgba(18, 3, 23, 1) 0%, 
+     rgba(79, 16, 87, 1) 35%, 
+     rgba(158, 46, 134, 1) 67%, 
+     rgba(232, 39, 155, 1) 100%);
      color: #8c92ff;
      font-family: "Montserrat", "Poppins", "Ubuntu", "hevetica neue", sans-serif;
      font-weight: 500;
